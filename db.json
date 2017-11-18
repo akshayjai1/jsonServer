@@ -59,54 +59,74 @@
     ],
     "apps": [
         {
-            "appDesc": "gamei",
-            "appId": "gamei",
-            "appName": "gamei"
+            "appDesc": "game10",
+            "appId": "a10",
+            "appName": "game10",
+            "mainMgr":"mm10",
+            "deptMgr":"dm10"
         },
         {
             "appDesc": "game9",
-            "appId": "game9",
-            "appName": "game9"
+            "appId": "a9",
+            "appName": "game9",
+            "mainMgr":"mm9",
+            "deptMgr":"dm9"
         },
         {
             "appDesc": "game8",
-            "appId": "game8",
-            "appName": "game8"
+            "appId": "a8",
+            "appName": "game8",
+            "mainMgr":"mm8",
+            "deptMgr":"dm8"
         },
         {
             "appDesc": "game7",
-            "appId": "game7",
-            "appName": "game7"
+            "appId": "a7",
+            "appName": "game7",
+            "mainMgr":"mm7",
+            "deptMgr":"dm7"
         },
         {
             "appDesc": "game6",
-            "appId": "game6",
-            "appName": "game6"
+            "appId": "a6",
+            "appName": "game6",
+            "mainMgr":"mm6",
+            "deptMgr":"dm6"
         },
         {
             "appDesc": "game5",
-            "appId": "game5",
-            "appName": "game5"
+            "appId": "a5",
+            "appName": "game5",
+            "mainMgr":"mm5",
+            "deptMgr":"dm5"
         },
         {
             "appDesc": "game4",
-            "appId": "game4",
-            "appName": "game4"
+            "appId": "a4",
+            "appName": "game4",
+            "mainMgr":"mm4",
+            "deptMgr":"dm4"
         },
         {
             "appDesc": "game3",
-            "appId": "game3",
-            "appName": "game3"
+            "appId": "a3",
+            "appName": "game3",
+            "mainMgr":"mm3",
+            "deptMgr":"dm3"
         },
         {
             "appDesc": "game2",
-            "appId": "game2",
-            "appName": "game2"
+            "appId": "a2",
+            "appName": "game2",
+            "mainMgr":"mm2",
+            "deptMgr":"dm2"
         },
         {
             "appDesc": "game1",
-            "appId": "game1",
-            "appName": "game1"
+            "appId": "a1",
+            "appName": "game1",
+            "mainMgr":"mm1",
+            "deptMgr":"dm1"
         }
     ],
     "admins": [
@@ -163,6 +183,11 @@
         "adminStatus": "true"
     },
     "server":["true"],
-    "admin": ["false"]
+    "admin": ["false"],
+    "appDetail":[
+        {
+
+        }
+    ]
     
 }
