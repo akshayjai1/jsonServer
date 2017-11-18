@@ -1,0 +1,112 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "email": "dummy@gmail.com",
+            "firstName": "abc1",
+            "lastName": "mi1",
+            "qno": "u1",
+            "role": "Admin"
+        },
+        {
+            "id": 2,
+            "email": "dummy1@gmail.com",
+            "firstName": "abc2",
+            "lastName": "mi2",
+            "qno": "u2",
+            "role": "Admin"
+        },
+        {
+            "id": 3,
+            "email": "dummy3@gmail.com",
+            "firstName": "abc3",
+            "lastName": "mi3",
+            "qno": "u3",
+            "role": "Admin"
+        },
+        {
+            "id": 4,
+            "email": "dummy4@gmail.com",
+            "firstName": "abc4",
+            "lastName": "mi4",
+            "qno": "u4",
+            "role": "Admin"
+        },
+        {
+            "id": 5,
+            "email": "dummy5@gmail.com",
+            "firstName": "abc5",
+            "lastName": "mi5",
+            "qno": "u5",
+            "role": "user"
+        },
+        {
+            "id": 6,
+            "email": "dummy6@gmail.com",
+            "firstName": "abc6",
+            "lastName": "mi6",
+            "qno": "u6",
+            "role": "user"
+        },
+        {
+            "id": 7,
+            "email": "dummy7@gmail.com",
+            "firstName": "abc7",
+            "lastName": "mi7",
+            "qno": "u7",
+            "role": "user"
+        },
+    ],
+    "apps": [
+        {
+            "appDesc": "gamei",
+            "appId": "gamei",
+            "appName": "gamei"
+        },
+        {
+            "appDesc": "game9",
+            "appId": "game9",
+            "appName": "game9"
+        },
+        {
+            "appDesc": "game8",
+            "appId": "game8",
+            "appName": "game8"
+        },
+        {
+            "appDesc": "game7",
+            "appId": "game7",
+            "appName": "game7"
+        },
+        {
+            "appDesc": "game6",
+            "appId": "game6",
+            "appName": "game6"
+        },
+        {
+            "appDesc": "game5",
+            "appId": "game5",
+            "appName": "game5"
+        },
+        {
+            "appDesc": "game4",
+            "appId": "game4",
+            "appName": "game4"
+        },
+        {
+            "appDesc": "game3",
+            "appId": "game3",
+            "appName": "game3"
+        },
+        {
+            "appDesc": "game2",
+            "appId": "game2",
+            "appName": "game2"
+        },
+        {
+            "appDesc": "game1",
+            "appId": "game1",
+            "appName": "game1"
+        }
+    ]
+}
