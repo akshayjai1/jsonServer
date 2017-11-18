@@ -6,7 +6,27 @@
             "firstName": "abc1",
             "lastName": "mi1",
             "qno": "u1",
-            "role": "Admin"
+            "role": "Admin",
+            "apps": [
+                {
+                    "appName": "game10",
+                    "appId": "a10",
+                    "roleName": "Maintenance Manager",
+                    "roleSince": "12/11/2015"
+                },
+                {
+                    "appName": "game9",
+                    "appId": "a9",
+                    "roleName": "Developer",
+                    "roleSince": "2/10/2009"
+                },
+                {
+                    "appName": "game1",
+                    "appId": "a1",
+                    "roleName": "Guest",
+                    "roleSince": "20/1/2012"
+                }
+            ]
         },
         {
             "id": 2,
@@ -14,7 +34,39 @@
             "firstName": "abc2",
             "lastName": "mi2",
             "qno": "u2",
-            "role": "Admin"
+            "role": "Admin",
+            "apps": [
+                {
+                    "appName": "game8",
+                    "appId": "a8",
+                    "roleName": "Guest",
+                    "roleSince": "2/7/2012"
+                },
+                {
+                    "appName": "game7",
+                    "appId": "a7",
+                    "roleName": "Developer",
+                    "roleSince": "13/11/2013"
+                },
+                {
+                    "appName": "game5",
+                    "appId": "a5",
+                    "roleName": "CI Administrator",
+                    "roleSince": "17/3/2014"
+                },
+                {
+                    "appName": "game3",
+                    "appId": "a3",
+                    "roleName": "Developer",
+                    "roleSince": "13/11/2013"
+                },
+                {
+                    "appName": "game2",
+                    "appId": "a2",
+                    "roleName": "Developer",
+                    "roleSince": "17/3/2014"
+                }
+            ]
         },
         {
             "id": 3,
@@ -22,7 +74,39 @@
             "firstName": "abc3",
             "lastName": "mi3",
             "qno": "u3",
-            "role": "Admin"
+            "role": "Admin",
+            "apps": [
+                {
+                    "appName": "game10",
+                    "appId": "a10",
+                    "roleName": "Developer",
+                    "roleSince": "2/7/2012"
+                },
+                {
+                    "appName": "game9",
+                    "appId": "a9",
+                    "roleName": "Operation Manager",
+                    "roleSince": "13/11/2013"
+                },
+                {
+                    "appName": "game6",
+                    "appId": "a6",
+                    "roleName": "Guest",
+                    "roleSince": "17/3/2014"
+                },
+                {
+                    "appName": "game3",
+                    "appId": "a3",
+                    "roleName": "CI Administrator",
+                    "roleSince": "13/11/2013"
+                },
+                {
+                    "appName": "game1",
+                    "appId": "a1",
+                    "roleName": "Operation Manager",
+                    "roleSince": "17/3/2014"
+                }
+            ]
         },
         {
             "id": 4,
@@ -30,7 +114,27 @@
             "firstName": "abc4",
             "lastName": "mi4",
             "qno": "u4",
-            "role": "Admin"
+            "role": "Admin",
+            "apps": [
+                {
+                    "appName": "game9",
+                    "appId": "a9",
+                    "roleName": "CI Administrator",
+                    "roleSince": "2/7/2012"
+                },
+                {
+                    "appName": "game5",
+                    "appId": "a5",
+                    "roleName": "Maintenance Manager",
+                    "roleSince": "13/11/2013"
+                },
+                {
+                    "appName": "game3",
+                    "appId": "a3",
+                    "roleName": "Maintenance Manager Deputy",
+                    "roleSince": "13/11/2013"
+                }
+            ]
         },
         {
             "id": 5,
@@ -38,7 +142,45 @@
             "firstName": "abc5",
             "lastName": "mi5",
             "qno": "u5",
-            "role": "user"
+            "role": "user",
+            "apps": [
+                {
+                    "appName": "game8",
+                    "appId": "a8",
+                    "roleName": "Operation Manager Deputy",
+                    "roleSince": "02/07/2012"
+                },
+                {
+                    "appName": "game7",
+                    "appId": "a7",
+                    "roleName": "Maintenance Manager Deputy",
+                    "roleSince": "13/11/2013"
+                },
+                {
+                    "appName": "game6",
+                    "appId": "a6",
+                    "roleName": "CI Administrator",
+                    "roleSince": "17/03/2014"
+                },
+                {
+                    "appName": "game5",
+                    "appId": "a5",
+                    "roleName": "Operation Manager",
+                    "roleSince": "13/11/2013"
+                },
+                {
+                    "appName": "game4",
+                    "appId": "a4",
+                    "roleName": "Operation Manager Deputy",
+                    "roleSince": "17/03/2014"
+                },
+                {
+                    "appName": "game2",
+                    "appId": "a2",
+                    "roleName": "Operation Manager Deputy",
+                    "roleSince": "12/06/2016"
+                }
+            ]
         },
         {
             "id": 6,
@@ -46,7 +188,33 @@
             "firstName": "abc6",
             "lastName": "mi6",
             "qno": "u6",
-            "role": "user"
+            "role": "user",
+            "apps": [
+                {
+                    "appName": "game8",
+                    "appId": "a8",
+                    "roleName": "CI Administrator",
+                    "roleSince": "2/7/2012"
+                },
+                {
+                    "appName": "game7",
+                    "appId": "a7",
+                    "roleName": "CI Administrator",
+                    "roleSince": "13/11/2013"
+                },
+                {
+                    "appName": "game4",
+                    "appId": "a4",
+                    "roleName": "CI Administrator",
+                    "roleSince": "17/3/2014"
+                },
+                {
+                    "appName": "game2",
+                    "appId": "a2",
+                    "roleName": "CI Administrator",
+                    "roleSince": "13/11/2013"
+                }
+            ]
         },
         {
             "id": 7,
@@ -54,7 +222,33 @@
             "firstName": "abc7",
             "lastName": "mi7",
             "qno": "u7",
-            "role": "user"
+            "role": "user",
+            "apps": [
+                {
+                    "appName": "game10",
+                    "appId": "a10",
+                    "roleName": "CI Administrator",
+                    "roleSince": "2/7/2012"
+                },
+                {
+                    "appName": "game6",
+                    "appId": "a6",
+                    "roleName": "Developer",
+                    "roleSince": "13/11/2013"
+                },
+                {
+                    "appName": "game4",
+                    "appId": "a4",
+                    "roleName": "Guest",
+                    "roleSince": "17/3/2014"
+                },
+                {
+                    "appName": "game1",
+                    "appId": "a1",
+                    "roleName": "CI Administrator",
+                    "roleSince": "13/11/2013"
+                }
+            ]
         }
     ],
     "apps": [
@@ -62,71 +256,211 @@
             "appDesc": "game10",
             "appId": "a10",
             "appName": "game10",
-            "mainMgr":"mm10",
-            "deptMgr":"dm10"
+            "mainMgr": "mm10",
+            "deptMgr": "dm10",
+            "users": [
+                {
+                    "roleName": "CI Administrator",
+                    "userName": "abc7 mi7"
+                },
+                {
+                    "roleName": "Developer",
+                    "userName": "abc3 mi3"
+                },
+                {
+                    "roleName": "Maintenance Manager",
+                    "userName": "abc1 mi1"
+                }
+            ]
         },
         {
             "appDesc": "game9",
             "appId": "a9",
             "appName": "game9",
-            "mainMgr":"mm9",
-            "deptMgr":"dm9"
+            "mainMgr": "mm9",
+            "deptMgr": "dm9",
+            "users": [
+                {
+                    "roleName": "CI Administrator",
+                    "userName": "abc4 mi4"
+                },
+                {
+                    "roleName": "Developer",
+                    "userName": "abc1 mi1"
+                },
+                {
+                    "roleName": "Operations Manager",
+                    "userName": "abc3 mi3"
+                }
+            ]
         },
         {
             "appDesc": "game8",
             "appId": "a8",
             "appName": "game8",
-            "mainMgr":"mm8",
-            "deptMgr":"dm8"
+            "mainMgr": "mm8",
+            "deptMgr": "dm8",
+            "users": [
+                {
+                    "roleName": "CI Administrator",
+                    "userName": "abc6 mi6"
+                },
+                {
+                    "roleName": "Operation Manager Deputy",
+                    "userName": "abc5 mi5"
+                },
+                {
+                    "roleName": "Guest",
+                    "userName": "abc2 mi2"
+                }
+            ]
         },
         {
             "appDesc": "game7",
             "appId": "a7",
             "appName": "game7",
-            "mainMgr":"mm7",
-            "deptMgr":"dm7"
+            "mainMgr": "mm7",
+            "deptMgr": "dm7",
+            "users": [
+                {
+                    "roleName": "CI Administrator",
+                    "userName": "abc6 mi6"
+                },
+                {
+                    "roleName": "Maintenance Manager Deputy",
+                    "userName": "abc5 mi5"
+                },
+                {
+                    "roleName": "Developer",
+                    "userName": "abc2 mi2"
+                }
+            ]
         },
         {
             "appDesc": "game6",
             "appId": "a6",
             "appName": "game6",
-            "mainMgr":"mm6",
-            "deptMgr":"dm6"
+            "mainMgr": "mm6",
+            "deptMgr": "dm6",
+            "users": [
+                {
+                    "roleName": "CI Administrator",
+                    "userName": "abc5 mi5"
+                },
+                {
+                    "roleName": "Guest",
+                    "userName": "abc3 mi3"
+                },
+                {
+                    "roleName": "Developer",
+                    "userName": "abc7 mi7"
+                }
+            ]
         },
         {
             "appDesc": "game5",
             "appId": "a5",
             "appName": "game5",
-            "mainMgr":"mm5",
-            "deptMgr":"dm5"
+            "mainMgr": "mm5",
+            "deptMgr": "dm5",
+            "users": [
+                {
+                    "roleName": "CI Administrator",
+                    "userName": "abc2 mi2"
+                },
+                {
+                    "roleName": "Operation Manager",
+                    "userName": "abc5 mi5"
+                },
+                {
+                    "roleName": "Maintenance Manager",
+                    "userName": "abc4 mi4"
+                }
+            ]
         },
         {
             "appDesc": "game4",
             "appId": "a4",
             "appName": "game4",
-            "mainMgr":"mm4",
-            "deptMgr":"dm4"
+            "mainMgr": "mm4",
+            "deptMgr": "dm4",
+            "users": [
+                {
+                    "roleName": "CI Administrator",
+                    "userName": "abc6 mi6"
+                },
+                {
+                    "roleName": "Operation Manager Deputy",
+                    "userName": "abc5 mi5"
+                },
+                {
+                    "roleName": "Guest",
+                    "userName": "abc7 mi7"
+                }
+            ]
         },
         {
             "appDesc": "game3",
             "appId": "a3",
             "appName": "game3",
-            "mainMgr":"mm3",
-            "deptMgr":"dm3"
+            "mainMgr": "mm3",
+            "deptMgr": "dm3",
+            "users": [
+                {
+                    "roleName": "CI Administrator",
+                    "userName": "abc3 mi3"
+                },
+                {
+                    "roleName": "Maintenance Manager Deputy",
+                    "userName": "abc4 mi4"
+                },
+                {
+                    "roleName": "Developer",
+                    "userName": "abc2 mi2"
+                }
+            ]
         },
         {
             "appDesc": "game2",
             "appId": "a2",
             "appName": "game2",
-            "mainMgr":"mm2",
-            "deptMgr":"dm2"
+            "mainMgr": "mm2",
+            "deptMgr": "dm2",
+            "users": [
+                {
+                    "roleName": "CI Administrator",
+                    "userName": "abc6 mi6"
+                },
+                {
+                    "roleName": "Operation Manager Deputy",
+                    "userName": "abc5 mi5"
+                },
+                {
+                    "roleName": "Developer",
+                    "userName": "abc2 mi2"
+                }
+            ]
         },
         {
             "appDesc": "game1",
             "appId": "a1",
             "appName": "game1",
-            "mainMgr":"mm1",
-            "deptMgr":"dm1"
+            "mainMgr": "mm1",
+            "deptMgr": "dm1",
+            "users": [
+                {
+                    "roleName": "CI Administrator",
+                    "userName": "abc7 mi7"
+                },
+                {
+                    "roleName": "Operation Manager",
+                    "userName": "abc3 mi3"
+                },
+                {
+                    "roleName": "Guest",
+                    "userName": "abc1 mi1"
+                }
+            ]
         }
     ],
     "admins": [
@@ -177,17 +511,19 @@
             "lastName": "mi6",
             "qno": "u6",
             "role": "user"
-        }],
-    "general" : {
+        }
+    ],
+    "general": {
         "serverStatus": "true",
         "adminStatus": "true"
     },
-    "server":["true"],
-    "admin": ["false"],
-    "appDetail":[
-        {
-
-        }
+    "server": [
+        "true"
+    ],
+    "admin": [
+        "false"
+    ],
+    "appDetail": [
+        {}
     ]
-    
 }
