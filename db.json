@@ -55,7 +55,7 @@
             "lastName": "mi7",
             "qno": "u7",
             "role": "user"
-        },
+        }
     ],
     "apps": [
         {
@@ -108,5 +108,61 @@
             "appId": "game1",
             "appName": "game1"
         }
-    ]
+    ],
+    "admins": [
+        {
+            "id": 1,
+            "email": "dummy@gmail.com",
+            "firstName": "abc1",
+            "lastName": "mi1",
+            "qno": "u1",
+            "role": "Admin"
+        },
+        {
+            "id": 2,
+            "email": "dummy1@gmail.com",
+            "firstName": "abc2",
+            "lastName": "mi2",
+            "qno": "u2",
+            "role": "Admin"
+        },
+        {
+            "id": 3,
+            "email": "dummy3@gmail.com",
+            "firstName": "abc3",
+            "lastName": "mi3",
+            "qno": "u3",
+            "role": "Admin"
+        },
+        {
+            "id": 4,
+            "email": "dummy4@gmail.com",
+            "firstName": "abc4",
+            "lastName": "mi4",
+            "qno": "u4",
+            "role": "Admin"
+        },
+        {
+            "id": 5,
+            "email": "dummy5@gmail.com",
+            "firstName": "abc5",
+            "lastName": "mi5",
+            "qno": "u5",
+            "role": "user"
+        },
+        {
+            "id": 6,
+            "email": "dummy6@gmail.com",
+            "firstName": "abc6",
+            "lastName": "mi6",
+            "qno": "u6",
+            "role": "user"
+        }],
+    "general" : {
+        "serverStatus": "true",
+        "adminStatus": "true"
+    },
+    "server":["true"],
+    "admin": ["false"]
+    
 }
