@@ -585,5 +585,14 @@
     ],
     "appDetail": [
         {}
+    ],
+    "userRole": [
+        {
+            "qno":"u3",
+            "roleCode":"Dev",
+            "first": "abc",
+            "last": "mi7",
+            "roleSince":"02/07/2012"
+        }
     ]
 }
