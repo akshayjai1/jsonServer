@@ -4,7 +4,8 @@
   "description": "fake api",
   "main": "index.js",
   "scripts": {
-    "json:server": "json-server --watch db.json"
+    "json:server": "json-server --watch db.json",
+    "json2": "json-server --watch db.1.json --id \"userId\" --port 2323"
   },
   "author": "",
   "license": "ISC"
