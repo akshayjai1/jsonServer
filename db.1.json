@@ -1,0 +1,157 @@
+{
+  "userAccount": [
+    {
+      "userId": 9,
+      "userName": "Jon11@test.com",
+      "password": "password",
+      "salt": "test1878",
+      "userprofile": {
+          "userProfileId": 5,
+          "userId": 9,
+          "firstName": "Jon",
+          "fromDate": "2019-03-12",
+          "toDate": "2019-03-17",
+          "lastName": "Lee",
+          "address1": "Add1",
+          "address2": "Add2",
+          "city": "Mumbai",
+          "country": "India",
+          "region": "North",
+          "postalCode": 400708,
+          "emailId": "test.mail.com",
+          "phoneNumber": 987456321,
+          "fax": 125478,
+          "organization": "Shipping Org"
+          
+      },
+      "userRoleAccess": [
+        {
+          "userroleid": 3,
+          "roleid": 1,
+          "portid": 1,
+          "userid": 9,
+          "CreatedBy": "41205",
+          "UpdatedBy": "41205",
+          "CreatedTimeStamp":"3/15/2019",
+          "UpdatedTimeStamp": "03/15/2019"
+        }
+        ]
+  },{
+    "userId": 1,
+    "userName": "Jon11@test.com",
+    "password": "password",
+    "salt": "test1878",
+    "userprofile": {
+        "userProfileId": 5,
+        "userId": 1,
+        "firstName": "Jon",
+        "fromDate": "2019-03-12",
+        "toDate": "2019-03-17",
+        "lastName": "Lee",
+        "address1": "Add1",
+        "address2": "Add2",
+        "city": "Mumbai",
+        "country": "India",
+        "region": "North",
+        "postalCode": 400708,
+        "emailId": "test.mail.com",
+        "phoneNumber": 987456321,
+        "fax": 125478,
+        "organization": "Shipping Org"
+        
+    },
+    "userRoleAccess": [
+      {
+        "userroleid": 3,
+        "roleid": 1,
+        "portid": 1,
+        "userid": 1,
+        "CreatedBy": "41205",
+        "UpdatedBy": "41205",
+        "CreatedTimeStamp":"3/15/2019",
+        "UpdatedTimeStamp": "03/15/2019"
+      }
+      ]
+},{
+  "userId": 2,
+  "userName": "Jon11@test.com",
+  "password": "password",
+  "salt": "test1878",
+  "userprofile": {
+      "userProfileId": 5,
+      "userId": 2,
+      "firstName": "Jon",
+      "fromDate": "2019-03-12",
+      "toDate": "2019-03-17",
+      "lastName": "Lee",
+      "address1": "Add1",
+      "address2": "Add2",
+      "city": "Mumbai",
+      "country": "India",
+      "region": "North",
+      "postalCode": 400708,
+      "emailId": "test.mail.com",
+      "phoneNumber": 987456321,
+      "fax": 125478,
+      "organization": "Shipping Org"
+      
+  },
+  "userRoleAccess": [
+    {
+      "userroleid": 3,
+      "roleid": 1,
+      "portid": 1,
+      "userid": 2,
+      "CreatedBy": "41205",
+      "UpdatedBy": "41205",
+      "CreatedTimeStamp":"3/15/2019",
+      "UpdatedTimeStamp": "03/15/2019"
+    }
+    ]
+},{
+  "userId": 4,
+  "userName": "Jon11@test.com",
+  "password": "password",
+  "salt": "test1878",
+  "userprofile": {
+      "userProfileId": 5,
+      "userId": 4,
+      "firstName": "Jon",
+      "fromDate": "2019-03-12",
+      "toDate": "2019-03-17",
+      "lastName": "Lee",
+      "address1": "Add1",
+      "address2": "Add2",
+      "city": "Mumbai",
+      "country": "India",
+      "region": "North",
+      "postalCode": 400708,
+      "emailId": "test.mail.com",
+      "phoneNumber": 987456321,
+      "fax": 125478,
+      "organization": "Shipping Org"
+      
+  },
+  "userRoleAccess": [
+    {
+      "userroleid": 3,
+      "roleid": 1,
+      "portid": 1,
+      "userid": 4,
+      "CreatedBy": "41205",
+      "UpdatedBy": "41205",
+      "CreatedTimeStamp":"3/15/2019",
+      "UpdatedTimeStamp": "03/15/2019"
+    }
+    ]
+}  ],
+  "posts": [
+    1,
+    2,
+    3,
+    {
+      "id": 4,
+      "post": "4"
+    }
+  ]
+}
